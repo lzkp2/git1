@@ -1,0 +1,11 @@
+E:\c#数据库\通信程序\以太网联三菱\以太网联三菱\bin\Debug\net8.0\以太网联三菱.deps.json
+E:\c#数据库\通信程序\以太网联三菱\以太网联三菱\bin\Debug\net8.0\以太网联三菱.dll
+E:\c#数据库\通信程序\以太网联三菱\以太网联三菱\bin\Debug\net8.0\以太网联三菱.pdb
+E:\c#数据库\通信程序\以太网联三菱\以太网联三菱\obj\Debug\net8.0\以太网联三菱.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#数据库\通信程序\以太网联三菱\以太网联三菱\obj\Debug\net8.0\以太网联三菱.AssemblyInfoInputs.cache
+E:\c#数据库\通信程序\以太网联三菱\以太网联三菱\obj\Debug\net8.0\以太网联三菱.AssemblyInfo.cs
+E:\c#数据库\通信程序\以太网联三菱\以太网联三菱\obj\Debug\net8.0\以太网联三菱.csproj.CoreCompileInputs.cache
+E:\c#数据库\通信程序\以太网联三菱\以太网联三菱\obj\Debug\net8.0\以太网联三菱.dll
+E:\c#数据库\通信程序\以太网联三菱\以太网联三菱\obj\Debug\net8.0\refint\以太网联三菱.dll
+E:\c#数据库\通信程序\以太网联三菱\以太网联三菱\obj\Debug\net8.0\以太网联三菱.pdb
+E:\c#数据库\通信程序\以太网联三菱\以太网联三菱\obj\Debug\net8.0\ref\以太网联三菱.dll

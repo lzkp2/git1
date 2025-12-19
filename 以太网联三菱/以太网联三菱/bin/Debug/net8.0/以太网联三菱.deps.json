@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "以太网联三菱/1.0.0": {
+        "runtime": {
+          "以太网联三菱.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "以太网联三菱/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
